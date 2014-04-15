@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/robert/.local/share/applications'
+let g:netrw_dirhist_2='/home/robert/Documents/github/config'
+let g:netrw_dirhist_3='/home/robert/Documents/github/config/kvm-about'
+let g:netrw_dirhist_4='/home/robert/Documents/github/GS/nova'
+let g:netrw_dirhist_5='/home/robert/Documents'
+let g:netrw_dirhist_6='/home/robert'
+let g:netrw_dirhist_7='/home'
+let g:netrw_dirhist_8='/'
